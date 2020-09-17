@@ -2,9 +2,13 @@
 Assignment 8 T-111-PROG in RU
 
 Collaborators:
+
   Benedikt Aron: benedikts20
+  
   Davíð Bjarki: davidercool
+  
   Daníel Arnarsson: danielarn20
+  
   Birkir Arndal: birkirarndal
 
 ```py
